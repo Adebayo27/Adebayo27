@@ -5,7 +5,7 @@ Before you is a homosapien that has a knack for many things. Believe you me, I l
 -🔭 I’m currently working on Leaderboard App
 - 🌱 I’m currently learning Nodejs and python
 - 👯 I’m looking to collaborate on exciting projects
-- 💬 Ask me about core PHP, Laravel, Slim framework, Javascript
+- 💬 Ask me about core PHP, Laravel, Slim framework, Javascript(react.js)
 - 📫 How to reach me: email => adekoya.adebayojubril@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: A good footballer and gamer
